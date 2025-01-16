@@ -1,37 +1,24 @@
-# 👨‍💻 Mahammadali Zamanli's GitHub Repository
+# 💫 About Me:
+🔭 I’m currently working on C-Http-server<br>
 
-Welcome to my GitHub repository! I am Mahammadali Zamanli, a Computer Science graduate with a passion for software development and a strong background in various programming languages and technologies. This repository showcases my projects and contributions.
 
-## About Me
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mehiyohyo.zamanli/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahammadali-zamanli-64931a282/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22744349) 
 
-- **Name**: Mahammadali Zamanli
-- **Email**: [📧 zamanli.mehemmedeli@gmail.com](mailto:zamanli.mehemmedeli@gmail.com)
-- **Location**: Ganja Avenue 69, Azerbaijan, Baku
-- **LinkedIn**: [🔗 Mahammadali Zamanli](https://www.linkedin.com/in/mahammadali-zamanli-64931a282/)
-- **Google Developer Profile**: [🌐 Mahammadali Zamanli](https://developers.google.com/profile/u/114680420352360775261)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mahammadali12&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mahammadali12&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahammadali12&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🎓 Education
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mahammadali12&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-**ADA University, Azerbaijan, Baku**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- **Degree**: B.S.E. in Computer Science
-- **GPA**: 3.41
-- **Entrance Score**: 651/700
-- **Relevant Coursework**: Data Engineering, Algorithms, Programming Principles II, Calculus II, Principles of Information Systems
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mahammadali12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🏆 Additional Experience and Awards
-
-- **Member of Google Developer Groups Azerbaijan (GDG Azerbaijan)**: Actively participated in workshops, expanding knowledge and skills in various fields.
-- **IDDA Technest Scholarship**: Awarded a 100% scholarship from the Technest program to pursue advanced training in Backend Development.
-
-## 💼 Skills
-
-- **Technologies**: SQL, Java, Python, Linux, SQLite, Maven, OOP, Git
-- **Frameworks**: SpringBoot, Flask, Swing
-- **Languages**: Azerbaijani (native), English (fluent), Russian (working proficiency)
-
-## 📞 Contact
-
-Feel free to reach out to me via [📧 email](mailto:zamanli.mehemmedeli@gmail.com) or connect with me on [🔗 LinkedIn](https://www.linkedin.com/in/mahammadali-zamanli-64931a282/).
-
-Thank you for visiting my repository! 🙏
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
