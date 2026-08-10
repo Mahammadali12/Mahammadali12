@@ -37,3 +37,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahammadali12&theme=gruvbox&hide_border=false" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://github-language-card.github-language-stat.workers.dev/languages.svg" alt="GitHub Streak" />
+</p>
+
